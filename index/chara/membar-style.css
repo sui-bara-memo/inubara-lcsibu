@@ -2,3 +2,8 @@ body{
 background-color:#131119;
 color:#fffae5;
 }
+
+h1,
+.titledeco{
+text-align:center;
+}
