@@ -47,6 +47,11 @@ text-decoration: none;
 color: #000000;
 }
 
+a[href="index/usaniwa.html"] {
+text-decoration: none;
+color: #000000;
+}
+
 body{
 background-color:#131119;
 color:#fffae5;
