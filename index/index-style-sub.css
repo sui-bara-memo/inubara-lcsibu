@@ -33,11 +33,12 @@ color: #000000;
 }
 
 a[href="index/settings.html"] {
+ a[href="index/settings.html"] {
 text-decoration: none;
 color: #000000;
 }
 
-a[href="index/chara.html"] {
+a[href="./nezume/nezume-chara.html"] {
 text-decoration: none;
 color: #000000;
 }
@@ -46,6 +47,8 @@ a[href="index/kiroku.html"] {
 text-decoration: none;
 color: #000000;
 }
+
+
 
 body{
 background-color:#131119;
