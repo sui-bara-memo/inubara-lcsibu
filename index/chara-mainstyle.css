@@ -3,6 +3,15 @@ display:grid;
 grid-template-columns:repeat(6,1fr);
 gap:15px;}
 
+@media(max-width:600px){
+.card-list{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+height:auto;
+align-items:stretch;
+gap:15px;}
+}
+
 .card {
 background-color: #eeeeee;
 color: #000000;
