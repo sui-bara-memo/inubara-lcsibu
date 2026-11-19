@@ -85,3 +85,28 @@ a[href="chara/02ppodae.html"] {
 text-decoration: none;
 color: #000000;
 }
+
+
+/*ローザ*/
+
+.card03 {
+display: block;
+background-color: #e8dcef; /*薄めたイメカラ*/
+color: #000000;
+border: 2px solid #ffd400;
+border-radius: 10px;
+padding: 15px;
+text-decoration: none;
+transition: transform 0.2s;
+}
+.card03 img {
+width: 100%;
+height: auto;
+border: 2px solid #ffd400;
+border-radius: 10px;
+}
+a[href="chara/03rose.html"] {
+text-decoration: none;
+color: #000000;
+}
+
