@@ -132,3 +132,26 @@ a[href="chara/04destiny.html"] {
 text-decoration: none;
 color: #000000;
 }
+
+/*ラマルコス*/
+
+.card05 {
+display: block;
+background-color: #bff2cc; /*薄めたイメカラ*/
+color: #000000;
+border: 2px solid #ffd400;
+border-radius: 10px;
+padding: 15px;
+text-decoration: none;
+transition: transform 0.2s;
+}
+.card05 img {
+width: 100%;
+height: auto;
+border: 2px solid #ffd400;
+border-radius: 10px;
+}
+a[href="chara/05Lamarcus.html"] {
+text-decoration: none;
+color: #000000;
+}
