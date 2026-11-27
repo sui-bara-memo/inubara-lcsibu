@@ -160,7 +160,7 @@ color: #000000;
 
 .card06 {
 display: block;
-background-color: #ffd8ec; /*薄めたイメカラ*/
+background-color: #e1d1f2; /*薄めたイメカラ*/
 color: #000000;
 border: 2px solid #ffd400;
 border-radius: 10px;
@@ -168,10 +168,10 @@ padding: 15px;
 text-decoration: none;
 transition: transform 0.2s;
 }
-.card05 img {
+.card06 img {
 width: 100%;
 height: auto;
-border: 2px solid #e1d1f2;
+border: 2px solid #ffd400;
 border-radius: 10px;
 }
 a[href="chara/06eugene.html"] {
