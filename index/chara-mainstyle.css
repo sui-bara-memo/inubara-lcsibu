@@ -9,6 +9,7 @@ display:grid;
 grid-template-columns:repeat(3,1fr);
 height:auto;
 align-items:stretch;
+align-items: start;
 gap:15px;}
 }
 
