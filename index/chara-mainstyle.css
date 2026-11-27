@@ -41,6 +41,7 @@ color:#fffae5;
 
 
 .card-list > a {
+  display: block;
   min-width: 0;
 }
 
