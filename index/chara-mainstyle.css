@@ -351,3 +351,26 @@ a[href="chara/13Archer.html"] {
 text-decoration: none;
 color: #000000;
 }
+
+/*アンジェリーナ*/
+
+.card14 {
+display: block;
+background-color: #fff9df; /*薄めたイメカラ*/
+color: #000000;
+border: 2px solid #ffd400;
+border-radius: 10px;
+padding: 15px;
+text-decoration: none;
+transition: transform 0.2s;
+}
+.card14 img {
+width: 100%;
+height: auto;
+border: 2px solid #ffd400;
+border-radius: 10px;
+}
+a[href="chara/14Angelina.html"] {
+text-decoration: none;
+color: #000000;
+}
