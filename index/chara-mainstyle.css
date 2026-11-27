@@ -45,6 +45,7 @@ color:#fffae5;
 .card-list > a {
   min-width: 0;
   display: flow-root;
+}
 
 .card-list article {
   box-sizing: border-box;
